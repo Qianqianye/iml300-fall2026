@@ -10,6 +10,7 @@ img {
   padding: 10px;
   transition: 1s;
   filter: grayscale(100%);
+  filter: invert();
   /*      border: 3px solid blue; */
 }
 
